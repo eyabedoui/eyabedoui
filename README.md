@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eyabedoui/eyabedoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Eya Bedoui
 
-Here are some ideas to get you started:
+### Software Engineering Student | AI & Data Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent software solutions with Artificial Intelligence, Data, and modern Software Engineering.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Software Engineering student at MedTech  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+📊 Exploring Data Analytics and Data Science  
+💻 Building software, AI-powered applications, and data-driven projects  
+🌱 Continuously improving my skills in Python, AI, and software engineering
+
