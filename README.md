@@ -140,36 +140,12 @@ Machine learning project focused on stock-market prediction, feature engineering
 </div>
 
 ---
-name: Generate Snake
+## 🐍 My Contributions
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<div align="center">
 
-jobs:
-  generate:
-    permissions:
-      contents: write
+<img src="https://raw.githubusercontent.com/eyabedoui/eyabedoui/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-    runs-on: ubuntu-latest
+</div>
 
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: eyabedoui
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v5
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
