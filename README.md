@@ -16,9 +16,9 @@
 </div>
 
 <div align="center">
-
-<img src=".assets/eya_coding_animation_small.gif" width="150" alt="eya_coding_animation_small"/>
-
+  <img src="https://raw.githubusercontent.com/eyabedoui/eyabedoui/main/assets/eya_coding_animation_small.gif"
+       width="850"
+       alt="Eya coding animation"/>
 </div>
 
 ---
