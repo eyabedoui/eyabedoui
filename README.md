@@ -1,21 +1,32 @@
-<div align="center">
+## 🛠️ Tech Stack
 
-# 👋 Hi, I'm Eya Bedoui
+### 💻 Programming Languages
 
-### Software Engineering Student | AI & Data Enthusiast
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
 
-Building intelligent software solutions with Artificial Intelligence, Data, and modern Software Engineering.
+### 🌐 Frontend & Mobile
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative" />
+</p>
 
----
+### ⚙️ Backend & Databases
 
-## 🚀 About Me
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
 
-🎓 Software Engineering student at MedTech
-🤖 Interested in Artificial Intelligence & Machine Learning
-📊 Exploring Data Analytics and Data Science
-💻 Building software, AI-powered applications, and data-driven projects
-🌱 Continuously improving my skills in Python, AI, and software engineering
+### 🤖 AI & Data
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
+
+### 🔧 Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 ---
