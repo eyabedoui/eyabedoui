@@ -87,3 +87,32 @@ Building intelligent software solutions with Artificial Intelligence, Data, and 
   <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=v
+
+## 🚀 Featured Projects
+
+### 🤖 LLM Code Language Identification
+
+Benchmarking Large Language Models for programming language identification and evaluating their performance across different models and datasets.
+
+**Tech:** Python • LLMs • Benchmarking • Data Analysis
+
+🔗 [View Project][(https://github.com/asmaaouiti403/LLM-Code-Language-Identification)](https://github.com/Gannar21/-LLM-Code-Language-Identification)
+
+---
+
+### 📈 Stock Prediction & Feature Engineering
+
+Machine learning project focused on stock-market prediction, feature engineering, and technical indicators such as RSI, momentum, and rolling statistics, with an interactive dashboard.
+
+**Tech:** Python • Machine Learning • Feature Engineering • Flask • Data Analysis
+
+🔗 [View Project](https://github.com/sinex-cloud/stock-prediction-1h)
+
+---
+
+
+---
+
+
+
+---
