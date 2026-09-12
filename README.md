@@ -74,15 +74,12 @@ Building intelligent software solutions with Artificial Intelligence, Data, and 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50" alt="PyTorch"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-learn"/>
 </p>
 
 <p align="left">
-  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Scikit-learn</b>
+  <b>Python</b>
 </p>
+
 
 ### 🔧 Tools & Development
 
