@@ -19,35 +19,74 @@ Building intelligent software solutions with Artificial Intelligence, Data, and 
 🌱 Continuously improving my skills in Python, AI, and software engineering
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+</p>
+
+<p align="left">
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>C</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>C++</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>
 </p>
 
 ### 🌐 Frontend & Mobile
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React Native"/>
+</p>
+
+<p align="left">
+  <b>HTML</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CSS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>React</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>React Native</b>
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="SQL"/>
+</p>
+
+<p align="left">
+  <b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>SQL</b>
 </p>
 
 ### 🤖 AI & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-learn"/>
+</p>
+
+<p align="left">
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Scikit-learn</b>
 </p>
 
 ### 🔧 Tools & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
----
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=v
