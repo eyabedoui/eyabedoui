@@ -151,11 +151,7 @@ Machine learning project focused on stock-market prediction, feature engineering
 ---
 ## 📫 Let's Connect
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Let's+Connect!;Feel+free+to+reach+out+👋;Always+open+to+new+opportunities!" alt="Let's Connect"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/eya-bedoui/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Eya%20Bedoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
