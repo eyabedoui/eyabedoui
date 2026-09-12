@@ -149,3 +149,36 @@ Machine learning project focused on stock-market prediction, feature engineering
 </div>
 
 ---
+## 📫 Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Let's+Connect!;Feel+free+to+reach+out+👋;Always+open+to+new+opportunities!" alt="Let's Connect"/>
+
+<br><br>
+
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/eya-bedoui/)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/eyabedoui" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:eyabedoui20@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Email"/>
+</a>
+
+<br><br>
+
+<b>LinkedIn</b>
+        <b>GitHub</b>
+        <b>Email</b>
+
+<br><br>
+
+⭐ <b>Thanks for visiting my profile!</b> ⭐
+
+</div>
+
+---
