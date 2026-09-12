@@ -129,15 +129,6 @@ Machine learning project focused on stock-market prediction, feature engineering
 🔗 [View Project](https://github.com/sinex-cloud/stock-prediction-1h)
 
 ---
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eyabedoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyabedoui&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ---
 ## 🔥 Contribution Streak
