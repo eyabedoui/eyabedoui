@@ -12,9 +12,10 @@ Building intelligent software solutions with Artificial Intelligence, Data, and 
 
 ## 🚀 About Me
 
-🎓 Software Engineering student at MedTech  
-🤖 Interested in Artificial Intelligence & Machine Learning  
-📊 Exploring Data Analytics and Data Science  
-💻 Building software, AI-powered applications, and data-driven projects  
+🎓 Software Engineering student at MedTech
+🤖 Interested in Artificial Intelligence & Machine Learning
+📊 Exploring Data Analytics and Data Science
+💻 Building software, AI-powered applications, and data-driven projects
 🌱 Continuously improving my skills in Python, AI, and software engineering
 
+---
