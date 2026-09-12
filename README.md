@@ -15,6 +15,12 @@
 
 </div>
 
+<div align="center">
+
+<img src=".assets/eya_coding_animation_small.gif" width="850" alt="eya_coding_animation"/>
+
+</div>
+
 ---
 ## 🚀 About Me
 
